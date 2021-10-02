@@ -32,6 +32,10 @@ header{
     
 }
 
+span{
+    color:lawngreen;
+}
+
 /* header::before{
     content: "";
     padding: 0%;
@@ -260,7 +264,7 @@ a:hover{
   
   @media only screen and (min-width: 481px) and (max-width: 770px){
     .nav{
-        font-size: 10px;
+        font-size: 15px;
         justify-content: center;
     }
     /* .navbar{
