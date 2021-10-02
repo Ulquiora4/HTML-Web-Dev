@@ -74,7 +74,8 @@ span{
     /* margin-left: 40%; */
     align-items: right;
     /* color: aqua; */
-    flex-flow: row;
+    /* flex-flow: row;*/
+    text-decoration: none;
     position: sticky;
     /* grid-template-columns: repeat(auto-fit,minmax(50px,1fr)); */
 }
