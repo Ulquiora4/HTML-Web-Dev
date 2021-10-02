@@ -16,9 +16,9 @@ header{
     display:flex;
     flex-direction: row;
     /* background-color: rgb(53 134 30 / 41%); */
-    width: 100vw;
+    max-width: 100%;
     border-radius: 7px;
-    margin: 4px;
+    margin: 2px;
     /* margin-bottom: 10%; */
     align-items: center;
     justify-content: space-between;
@@ -27,7 +27,7 @@ header{
     /* flex-wrap: wrap; */
     /* color: black; */
     /* height: 50px; */
-   
+    overflow-x: hidden;
     
 }
 
