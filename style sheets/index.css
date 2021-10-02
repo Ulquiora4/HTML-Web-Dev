@@ -170,7 +170,7 @@ header{
     margin: 0%;
     display: grid;
     justify-content: center;
-    
+    text-align: center;
 }
 
 /* .name:hover{
