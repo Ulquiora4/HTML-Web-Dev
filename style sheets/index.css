@@ -54,6 +54,7 @@ span{
     color: rgb(44, 255, 72);
     cursor: pointer;
     font-size: 22px;
+    text-decoration: none;
 }
 
 .container{  
@@ -284,7 +285,7 @@ a:hover{
         color: rgb(44, 255, 72);
         cursor: pointer;
         font-size: 12px;
-        font-weight: 300;
+        /* font-weight: 300; */
     }
     
     /* .container{
@@ -308,6 +309,12 @@ a:hover{
     .navbar{
           padding-left: 5px;
       }
+      .nav:hover{
+        color: rgb(44, 255, 72);
+        cursor: pointer;
+        font-size: 10px;
+        text-decoration: none;
+    }
       .nav{
         /* display: inline-block; */
         /* margin: 8px; */
