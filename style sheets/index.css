@@ -8,6 +8,7 @@ header{
     margin: 8px;
     padding: 0px 13px;
     font-size: 20px;
+    font-weight: 500;
     color: white;
     
 }
@@ -232,7 +233,7 @@ a{
 }
 
 a:hover{
-    font-size: 17px;
+    font-size: 15px;
 }
 
 /*@media only screen and (max-width: 600px) {
@@ -274,6 +275,13 @@ a:hover{
         flex-wrap: wrap;
         font-size: 10px;
     }
+    .nav:hover{
+        color: rgb(44, 255, 72);
+        cursor: pointer;
+        font-size: 12px;
+        font-weight: 300;
+    }
+    
     /* .container{
         justify-content: center;
         align-items: center;
@@ -305,5 +313,11 @@ a:hover{
     img.logo{
         width: 10%;
     }
+    /* a{
+        font-size: 10px;
+    }
+    a:hover{
+        font-size: 5px;
+    } */
   }
   
